@@ -17,6 +17,7 @@ torch = "2.2.2"
 tqdm = "4.66.2"
 jupyter = "^1.0.0"
 lab = "^8.1"
+pysr = "^0.18.4"
 
 
 [build-system]
