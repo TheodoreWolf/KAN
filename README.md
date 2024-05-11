@@ -10,4 +10,4 @@ This repo uses poetry to manage its dependencies. You can install poetry [here](
 poetry install
 ```
 
-PySR requires Julia. You can install Julia [here](https://julialang.org/downloads/). After installing Julia, make sure you add it to your PATH.
+PySR requires [Julia](https://julialang.org/downloads/). After installing Julia, make sure you add it to your PATH.
